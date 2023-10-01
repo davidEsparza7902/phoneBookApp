@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/persons/65189fbe7214c279aa024c82
+Content-Type: application/json
+
+{
+    "name": "Liam Neeson",
+    "number": "954-751586"
+}
